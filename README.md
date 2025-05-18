@@ -7,9 +7,11 @@
 ---
 
   <p align="center">
-  <img src="https://media.giphy.com/media/6nuiJjOOQBBn2/giphy.gif" width="200" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF1aHQwdzBuMDUwYXBzajNodm5ybTMxYnZ1YzM5bjdqZ3NnMm8wdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IydmRNCdEmqVchq/giphy.gif" width="200" />
 </p>
 </h1>
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=El+malware+es+una+droga...;Si+te+da+miedo+el+malware,+¡corre!;La+red+arde+y+yo+con+ella.;Puse+addicted+con+1+d;Yo+no+soy+mala+persona,+tú+si.;El+ransomware+me+excita" alt="Typing SVG" />
