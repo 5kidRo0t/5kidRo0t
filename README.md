@@ -11,7 +11,7 @@
 
 ---
 
-### ⚠️ Acá no se viene a sonreír
+### ⚠️ Acá no se viene a sonreír o si... \(^0^\)
 
 - 🧠 Analista de malware por amor al caos  
 - 🪓 Rompo binarios por deporte  
