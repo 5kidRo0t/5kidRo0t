@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=El+malware+es+una+droga+muy+bestia...;como+arte+digital+de+la+oscuridad.;La+red+arde+y+yo+con+ella.;Puse+addicted+con+1+d" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Malware+es+una+droga+muy+bestia...;como+arte+digital+de+la+oscuridad.;La+red+arde+y+yo+con+ella.;Puse+addicted+con+1+d" alt="Typing SVG" />
 </p>
 
 ---
