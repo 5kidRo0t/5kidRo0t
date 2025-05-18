@@ -16,8 +16,11 @@
 - 🪓 Rompo mi PC y ni me molesto en asustarme
 - 🖕 Al que me pida que le arregle su teléfono  
 - 💾 Reventando samples desde mi cueva
+- 😏 Me excita el malware, si encuentras, envíamelo
+- 🏴‍☠️ Me turboflipa el Malware metamórfico
+- 🔧 A veces programo cosas raras
+- 🔪 El pentesting mola, pero poco
 
-### 💣 Mis herramientas para el malwaaa
 
 ![REMnux](https://img.shields.io/badge/REMnux-2D2D2D?style=flat&logo=gnu-bash&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-red?style=flat&logo=ghidra)
@@ -25,7 +28,7 @@
 ![Wireshark](https://img.shields.io/badge/Sniffing-grey?style=flat&logo=wireshark)
 ![C](https://img.shields.io/badge/C%2FC%2B%2B-004482?style=flat&logo=c)
 ![Hex](https://img.shields.io/badge/Hex%20Editor-black?style=flat)
-![KaliLinux](https://img.shields.io/badge/REMnux-2D2D2D?style=flat&logo=gnu-bash&logoColor=white)
+![KaliLinux](https://img.shields.io/badge/KaliLinux-2D2D2D?style=flat&logo=gnu-bash&logoColor=white)
 
 ---
 
