@@ -21,6 +21,10 @@
 - 🔧 A veces programo cosas raras
 - 🔪 El pentesting mola, pero poco
 
+Ya sé que soy un desastre, no hace falta que me lo recuerden todo el tiempo 😒
+
+---
+### Algunas de las herramientas que uso para analizar el malwaaa 👇
 
 ![REMnux](https://img.shields.io/badge/REMnux-2D2D2D?style=flat&logo=gnu-bash&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-red?style=flat&logo=ghidra)
