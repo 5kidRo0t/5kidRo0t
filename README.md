@@ -2,7 +2,11 @@
 
 
 <h1 align="center" style="font-family: monospace;">
-  ☣️ 5kidRo0t ☠️  
+  ☣️ 5kidRo0t ☠️ 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/6nuiJjOOQBBn2/giphy.gif" width="200" />
+</p>
 </h1>
 
 <p align="center">
@@ -39,13 +43,5 @@
 
 ---
 
-### 🩸 Ruido visual (como debe ser)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/6nuiJjOOQBBn2/giphy.gif" width="200" />
-</p>
-
----
-
 > “Nací para romper sistemas, no para entenderlos.”  
-> — 5kidRo0t, desde el sótano digital
+> — 5kidRo0t
