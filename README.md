@@ -42,7 +42,6 @@
 ### 🩸 Ruido visual (como debe ser)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" width="300" />
   <img src="https://media.giphy.com/media/6nuiJjOOQBBn2/giphy.gif" width="200" />
 </p>
 
