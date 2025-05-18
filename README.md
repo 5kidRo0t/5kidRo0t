@@ -31,14 +31,6 @@
 
 ---
 
-### 🚷 Proyectos
-
-- 👁️‍🗨️ [DragonForce Dissected](https://github.com/5kidro0t/DragonForce-analysis) – lo destripé sin compasión  
-- 💀 [YARA Rulez](https://github.com/5kidro0t/YARA-rules) – reglas hechas a golpe de byte  
-- 🧠 [CTF (soon)](https://github.com/5kidro0t/punk-ctf) – prepárate para sufrir y amar cada segundo  
-
----
-
 ### 📊 Stats (aunque me dan igual...)
 
 <p align="center">
