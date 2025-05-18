@@ -22,7 +22,7 @@
 
 ### 💣 Mis herramientas de guerra
 
-![Arch Linux](https://img.shields.io/badge/Arch-000000?style=flat&logo=arch-linux)
+![REMnux](https://img.shields.io/badge/REMnux-2D2D2D?style=flat&logo=gnu-bash&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-red?style=flat&logo=ghidra)
 ![YARA](https://img.shields.io/badge/YARA-darkred?style=flat&logo=data)
 ![Wireshark](https://img.shields.io/badge/Sniffing-grey?style=flat&logo=wireshark)
