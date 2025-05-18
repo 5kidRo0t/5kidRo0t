@@ -3,7 +3,7 @@
 
 <h1 align="center" style="font-family: monospace;">
   ☣️ 5kidRo0t ☠️ 
-
+---
 <p align="center">
   <img src="https://media.giphy.com/media/6nuiJjOOQBBn2/giphy.gif" width="200" />
 </p>
