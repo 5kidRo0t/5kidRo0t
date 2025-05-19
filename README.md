@@ -6,7 +6,7 @@
 <h1 align="center" style="font-family: monospace;">
 
 ||||||||||||||||||||||||||||||||||| <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=El+malware+es+una+droga...;Si+te+da+miedo+el+malware,+¡corre!;Puse+addicted+con+1+d;La+red+arde+y+yo+con+ella;8f4f3d4a198b6af8230bb94d41bd25e0;Yo+no+soy+mala+persona,+tú+sí;El+ransomware+me+excita;Voy+a+vomitar+sangre+por+el+culo;El+malware+siempre+juzgando;Me+debes+1+euro;Si+me+pides+malware+eres+tontx;What+is+the+password?;Si+Luxxy+se+pierde+es+tu+culpa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=El+malware+es+una+droga...;¿Te+da+miedo+el+malware?,+¡corre!;Puse+addicted+con+1+d;La+red+arde+y+yo+con+ella;8f4f3d4a198b6af8230bb94d41bd25e0;Yo+no+soy+mala+persona,+tú+sí;El+ransomware+me+excita;Voy+a+vomitar+sangre+por+el+culo;El+malware+siempre+juzgando;Me+debes+1+euro;Si+me+pides+malware+eres+tontx;What+is+the+password?;Si+Luxxy+se+pierde+es+tu+culpa" alt="Typing SVG" />
 </p> |||||||||||||||||||||||||||||||||||
 
 <!-- 01101101 01111001 00100000 01101100 01100101 01100110 01110100 00100000 01110100 01100101 01110011 01110100 01101001 01100011 01101100 01100101 00100000 01101001 01110100 01100011 01101000 01100101 01110011 -->
