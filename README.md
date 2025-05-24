@@ -19,6 +19,14 @@ No soy expertx ni nada por el estilo, solo alguien que disfruta trasteando con o
 Más que nada, me gusta aprender haciendo y compartir lo que voy creando.
 Ya sé que soy un desastre, no hace falta que me lo recuerden todo el tiempo 😒
 
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+I really enjoy malware analysis and creating tools that can help others in cybersecurity.
+Right now, I’m working on [VenomStrike](https://github.com/5kidRo0t/VenomStrike), a tool I think can be pretty useful for malware analysts.
+I’m not an expert or anything like that, just someone who likes tinkering with computers, coding, and trying out new things—even small malware samples, always within legal boundaries.
+Mostly, I like learning by doing and sharing what I create.
+And yeah, I know I’m a mess, no need to remind me all the time 😒
+
 ![REMnux](https://img.shields.io/badge/REMnux-2D2D2D?style=flat&logo=gnu-bash&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-red?style=flat&logo=ghidra)
 ![YARA](https://img.shields.io/badge/YARA-darkred?style=flat&logo=data)
