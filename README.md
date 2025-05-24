@@ -11,17 +11,12 @@
 
 <!-- 01101101 01111001 00100000 01101100 01100101 01100110 01110100 00100000 01110100 01100101 01110011 01110100 01101001 01100011 01101100 01100101 00100000 01101001 01110100 01100011 01101000 01100101 01110011 -->
 
-### ⚠️ Aquí no se viene a sonreír, o si... (^0^)
+### ⚠️ Aquí no se viene sin malware!! 🏴‍☠️
 
-- 🧠 Analista de malware por amor al caos... y porque no me pagan :(  
-- 🪓 Rompo mi PC y ni me molesto en asustarme
-- 🖕 Al que me pida que le arregle su teléfono  
-- 💾 Reventando samples desde mi cueva
-- 😏 Me excita el malware, si encuentras, envíamelo
-- 🏴‍☠️ Me turboflipa el Malware metamórfico
-- 🔧 A veces programo cosas raras
-- 🔪 El pentesting mola, pero poco
-
+Me gusta mucho el análisis de malware y crear herramientas que puedan ayudar a otros en ciberseguridad. 
+Ahora mismo estoy trabajando en [VenomStrike](https://github.com/5kidRo0t/VenomStrike), una herramienta que creo que puede ser bastante útil para analistas de malware.
+No soy expertx ni nada por el estilo, solo alguien que disfruta trasteando con ordenadores, programando y probando cosas nuevas, incluso pequeñas muestras de malware, siempre dentro de lo legal. 
+Más que nada, me gusta aprender haciendo y compartir lo que voy creando.
 Ya sé que soy un desastre, no hace falta que me lo recuerden todo el tiempo 😒
 
 ![REMnux](https://img.shields.io/badge/REMnux-2D2D2D?style=flat&logo=gnu-bash&logoColor=white)
