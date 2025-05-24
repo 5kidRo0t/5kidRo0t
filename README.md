@@ -13,7 +13,7 @@
 
 ### ⚠️ Aquí no se viene a sonreír, o si... (^0^)
 
-- 🧠 Analista de malware por amor al caos... porque no me pagan :(  
+- 🧠 Analista de malware por amor al caos... y porque no me pagan :(  
 - 🪓 Rompo mi PC y ni me molesto en asustarme
 - 🖕 Al que me pida que le arregle su teléfono  
 - 💾 Reventando samples desde mi cueva
