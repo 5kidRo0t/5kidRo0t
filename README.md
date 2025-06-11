@@ -1,13 +1,13 @@
 <!-- aztbz-cz -->
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/abc3fe7f-bce1-4ac8-b9b9-e20518fd06eb" width="600"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF1aHQwdzBuMDUwYXBzajNodm5ybTMxYnZ1YzM5bjdqZ3NnMm8wdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IydmRNCdEmqVchq/giphy.gif" width="600" />
 </p>
 
 <h1 align="center" style="font-family: monospace;">
 
 ||||||||||||||||||||||||||||||||||| <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=El+malware+es+una+droga...;¿Te+da+miedo+el+malware?,+¡corre!;Puse+addicted+con+1+d;La+red+arde+y+yo+con+ella;8f4f3d4a198b6af8230bb94d41bd25e0;Yo+no+soy+mala+persona,+tú+sí;El+ransomware+me+excita;Voy+a+vomitar+sangre+por+el+culo;El+malware+siempre+juzgando;Me+debes+1+euro;Si+me+pides+malware+eres+tontx;What+is+the+password?;Si+Luxxy+se+pierde+es+tu+culpa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=El+malware+es+una+droga...;¿Te+da+miedo+el+malware?,+¡corre!;La+red+arde+y+yo+con+ella;8f4f3d4a198b6af8230bb94d41bd25e0;Yo+no+soy+mala+persona,+tú+sí;El+ransomware+me+excita;Voy+a+vomitar+sangre+por+el+culo;El+malware+siempre+juzgando;Me+debes+1+euro;Si+me+pides+malware+eres+tontx;What+is+the+password?;Si+Luxxy+se+pierde+es+tu+culpa" alt="Typing SVG" />
 </p> |||||||||||||||||||||||||||||||||||
 
 <!-- 01101101 01111001 00100000 01101100 01100101 01100110 01110100 00100000 01110100 01100101 01110011 01110100 01101001 01100011 01101100 01100101 00100000 01101001 01110100 01100011 01101000 01100101 01110011 -->
@@ -47,11 +47,6 @@ And yeah, I know I’m a mess, no need to remind me all the time 😒
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=5kidro0t&show_icons=true&theme=tokyonight&hide_border=true" alt="5kidRo0t Stats" />
 </p>
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF1aHQwdzBuMDUwYXBzajNodm5ybTMxYnZ1YzM5bjdqZ3NnMm8wdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IydmRNCdEmqVchq/giphy.gif" width="600" />
-</p>
-
 
 <p align="center">
 01011001 01101111 01110101 00100000 01100100 01101111 01101110 00100111 01110100 00100000 01101110 01100101 01100101 01100100 00100000 01110100 01101111 00100000 01101010 01110101 01100100 01100111 01100101 00100000 01101101 01100101 00101100 00100000 01001001 00100000 01101111 01101110 01101100 01111001 00100000 01100100 01101111 00100000 01110100 01101000 01101001 01110011 00100000 01100010 01100101 01100011 01100001 01110101 01110011 01100101 00100000 01001001 00100000 01101000 01100001 01110110 01100101 00100000 01100110 01110101 01101110 00101110
