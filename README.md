@@ -19,19 +19,13 @@ Please see [SECURITY.md](./SECURITY.md) for how to report it responsibly.
 
 ---
 
-### ⚠️ Aquí no se viene sin malware!! 🏴‍☠️
-
 Me gusta mucho el análisis de malware y crear herramientas que puedan ayudar a otros en ciberseguridad. 
 Ahora mismo estoy trabajando en [VenomStrike](https://github.com/5kidRo0t/VenomStrike), una herramienta que creo que puede ser bastante útil para analistas de malware.
-
-Ya sé que soy un desastre, no hace falta que me lo recuerden todo el tiempo 😒
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 I really enjoy malware analysis and creating tools that can help others in cybersecurity.
 Right now, I’m working on [VenomStrike](https://github.com/5kidRo0t/VenomStrike), a tool I think can be pretty useful for malware analysts.
-
-And yeah, I know I’m a mess, no need to remind me all the time 😒
 
 ![REMnux](https://img.shields.io/badge/REMnux-2D2D2D?style=flat&logo=gnu-bash&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-red?style=flat&logo=ghidra)
@@ -50,6 +44,3 @@ And yeah, I know I’m a mess, no need to remind me all the time 😒
 </p>
 
 ---
-
-> “Nací para romper sistemas, no para arreglarlos.”  
-> — 5kidRo0t
