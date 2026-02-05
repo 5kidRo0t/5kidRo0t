@@ -11,13 +11,13 @@
 </p> |||||||||||||||||||||||||||||||||||
 
 <!-- 01101101 01111001 00100000 01101100 01100101 01100110 01110100 00100000 01110100 01100101 01110011 01110100 01101001 01100011 01101100 01100101 00100000 01101001 01110100 01100011 01101000 01100101 01110011 -->
+
 ---
 
 🔐 Found a security concern? 
 
 Please see [SECURITY.md](./SECURITY.md) for how to report it responsibly.
 </h2>
----
 
 Me gusta mucho el análisis de malware y crear herramientas que puedan ayudar a otros en ciberseguridad. 
 Ahora mismo estoy trabajando en [VenomStrike](https://github.com/5kidRo0t/VenomStrike), una herramienta que creo que puede ser bastante útil para analistas de malware.
