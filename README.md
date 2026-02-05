@@ -4,7 +4,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF1aHQwdzBuMDUwYXBzajNodm5ybTMxYnZ1YzM5bjdqZ3NnMm8wdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IydmRNCdEmqVchq/giphy.gif" width="600" />
 </p>
 
-<h1 align="center" style="font-family: monospace;">
+<h2 align="center" style="font-family: monospace;">
 
 ||||||||||||||||||||||||||||||||||| <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=El+malware+es+una+droga...;¿Te+da+miedo+el+malware?,+¡corre!;La+red+arde+y+yo+con+ella;8f4f3d4a198b6af8230bb94d41bd25e0;Yo+no+soy+mala+persona,+tú+sí;El+ransomware+me+excita;Voy+a+vomitar+sangre+por+el+culo;El+malware+siempre+juzgando;Me+debes+1+euro;Si+me+pides+malware+eres+tontx;What+is+the+password?;Si+Luxxy+se+pierde+es+tu+culpa" alt="Typing SVG" />
@@ -16,7 +16,7 @@
 🔐 Found a security concern? 
 
 Please see [SECURITY.md](./SECURITY.md) for how to report it responsibly.
-</h1>
+</h2>
 ---
 
 Me gusta mucho el análisis de malware y crear herramientas que puedan ayudar a otros en ciberseguridad. 
