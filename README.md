@@ -16,12 +16,12 @@ Please see [SECURITY.md](./SECURITY.md) for how to report it responsibly.
 </h2>
 
 Me gusta mucho el análisis de malware y crear herramientas que puedan ayudar a otros en ciberseguridad. 
-Ahora mismo estoy trabajando en [VenomStrike](https://github.com/5kidRo0t/VenomStrike), una herramienta que creo que puede ser bastante útil para analistas de malware.
+Ahora mismo estoy trabajando en [Hextopsy](https://github.com/5kidRo0t/Hextopsy).
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 I really enjoy malware analysis and creating tools that can help others in cybersecurity.
-Right now, I’m working on [VenomStrike](https://github.com/5kidRo0t/VenomStrike), a tool I think can be pretty useful for malware analysts.
+Right now, I’m working on [Hextopsy](https://github.com/5kidRo0t/Hextopsy).
 
 ![REMnux](https://img.shields.io/badge/REMnux-2D2D2D?style=flat&logo=gnu-bash&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-red?style=flat&logo=ghidra)
